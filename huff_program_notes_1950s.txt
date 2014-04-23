@@ -1,0 +1,576 @@
+Program Date 	Film Title 	Director 	Year
+5/20/53 	The Cat and the Canary 	Leni, Paul 	1927
+  	The Night Cry 	Raymaker, Herman 	1926
+6/10/53 	The Knockout 	Sennett, Mack and Roscoe "Fatty" Arbuckle 	1914
+  	The Movies March Along 	  	n.d.
+  	A Night at the Show 	Chaplin, Charlie 	1915
+  	The Three Musketeers 	Niblo, Fred 	1921
+7/8/53 	The Covered Wagon 	Cruze, James 	1923
+  	Spills and Chills 	Youngson, Robert 	1949
+  	A Dog's Life 	Chapiln, Charlie 	1918
+  	Pay Day 	Chaplin, Charlie 	1922
+7/22/53 	The Fighting Coward 	Cruze, James 	1924
+  	The Kid 	Chaplin, Charles 	1921
+  	Words for Battle 	Jennings, Humphrey 	1941
+8/19/53 	At the Ringside 	Parrott, James 	1921
+  	Fire Fighters 	McGowan, Robert and Tom McNamara 	1922
+  	Hoboken to Hollywood 	Lord, Del 	1927
+  	Safety Last 	Newmeyer, Fred and Sam Taylor 	1923
+  	The White Hell of Pitz Palu 	Pabst, G.W. and Dr. Arnold Fanck 	1929
+9/2/53 	Greed 	Von Stroheim, Erich 	1925
+  	Sailors, Beware 	Yates, Hal 	1927
+9/16/53 	The Iron Horse 	Ford, John 	1924
+  	Cowboy Ambrose 	Lehrman, Henry 	c.1917- 1922
+9/30/53 	Beau Brummel 	Beaumont, Harry 	1924
+10/13/53 	Chronicle of the Grey House [Zur Chronik Von Grieshuus] 	von Gerlach, Arthur 	1925
+  	Homecoming [Heimkehr] 	May, Joe 	1928
+  	Piccadilly 	Dupont, E.A. 	1929
+  	Spies [Spione] 	Lang, Fritz 	1927
+  	Die Wunderhare Luege der Nina Petrovna [The Wonderful Lie] 	Schwarz, Hanns 	1929
+11/24/53 	Dancing Mothers 	Brenon, Herbert 	1926
+  	The Spanish Dancer 	Brenon, Herbert 	1923
+12/8/53 	How to Vote 	Feist, Felix 	1942
+  	I Cover the Waterfront 	Cruze, James 	1933
+  	The Waverley Steps 	Eldridge, John 	1948
+12/22/53 	The Gangsters and the Girl 	Sidney, Scott 	1914
+  	Grass 	Cooper, Merian C. and Ernest B. Schoedsack 	1925
+  	His Trysting Place 	Chaplin, Charlie 	1914
+  	Mickey's Christmas 	  	n.d.
+  	Skinner's Dress Suit 	Seiter, William A. 	1926
+1/5/54 	Lulu's Doctor 	Sturgeon, Rollin 	1914
+  	My Baby 	Griffith, D.W. 	1912
+  	The Return of Draw Egan 	Hart, William S. 	1916
+  	The Rival Brothers' Patriotism 	  	1910
+  	Unusual Honeymoon 	Baker, George D. 	1912
+  	Vanity Fair 	Kent, Charles 	1911
+2/16/54 	The Fighting Eagle 	Crisp, Donald 	1927
+  	From the Manger to the Cross 	Olcott, Sidney 	1912
+3/2/54 	The Collegians, Episode 1: "Benson at Calford" 	Edwards, Harry 	1925
+  	Dog Shy 	McCarey, Leo 	1926
+  	The Leatherpushers 	Pollard, Harry 	1922
+  	Orchids and Ermine 	Santell, Alfred 	1927
+3/16/54 	His Royal Flush 	Hart, William S. 	1915
+  	The Leatherpushers 	Pollard, Harry 	1922
+  	Saturday Afternoon 	Edwards, Harry 	1926
+  	Tumbleweeds 	Baggott, King 	1925
+3/30/54 	The Birth of a Nation 	Griffith, D.W. 	1915
+4/13/54 	Bromo and Juliet 	McCarey, Leo 	1926
+  	Raffles 	Baggott, King 	1925
+  	Son of the Sheik 	Fitzmaurice, George 	1926
+4/27/54 	Are Parents People? 	St. Clair, Malcolm 	1925
+  	Ben Hur 	Niblo, Fred 	1925
+  	Cohen Saves the Flag 	Sennett, Mack 	1913
+5/11/54 	His Naughty Thought 	Sennett, Mack 	1917
+  	The Mad Lover 	  	1914
+  	Mr. Silent Haskins 	Hart, William S. 	1915
+  	My Boy 	Heerman, Victor and Albert Austin 	1921
+  	Shoulder Arms 	Chaplin, Charles 	1918
+5/25/54 	Barney Oldfield's Race for Life 	Sennett, Mack 	1913
+  	The Hunchback of Notre Dame 	Worsley, Wallace 	1923
+  	Magic Movie Moments 	Youngson, Robert 	1953
+  	Thrills from the Past 	Youngson, Robert 	1954
+6/8/54 	The Blue Light [Das Blaue Licht] 	Riefenstahl, Leni 	1932
+  	L'Argent [Money] 	L'Herbier, Marcel 	1929
+  	The Sacred Mountain [Der Heilige Berg] 	Fanck, Dr. Arnold 	1927
+  	The Tournament [Le tournoi dans la cité] 	Renoir, Jean 	1928
+6/22/54 	Extase 	Machaty, Gustav 	1932
+  	The Joyless Street [Die Freudlose Gasse] 	Pabst, G.W. 	1925
+  	Manon Lescaut 	Robison, Arthur 	1926
+7/6/54 	The Scarlet Letter 	Sjöström, Victor 	1926
+  	The Seventh Age 	Svendsen, Torben Anton 	1947
+  	Skylarking 	Lord, Del 	1923
+7/20/54 	The Lost World 	Hoyt, Harry 	1925
+  	Rubber Tires 	Hale, Alan 	1927
+  	Mabel's Dramatic Career 	Sennett, Mack 	1913
+1/18/55 	Double Whoopee 	Foster, Lewis 	1929
+  	Flirting with Fate 	Cabanne, Christy 	1916
+  	Wild Blood 	MacRae, Henry 	1928
+2/15/55 	The General 	Keaton, Buster and Clyde Bruckman 	1927
+  	Moon Over Las Vegas 	Bruckman, Clyde 	1944
+  	Movie Crazy 	Bruckman, Clyde 	1933
+2/15/55 	The Flower Fairy 	Velle, Gaston 	1900
+	Here Today, Gone Tomorrow 	Anderson, James M 	1954
+  	The Lucky Devil 	Tuttle, Frank 	1925
+  	Movieland 	Taurog, Norman 	1926
+  	Where the North Begins 	Franklin, Chester 	1923
+3/15/55 	Barbara Frietchie 	Hillyer, Lambert 	1924
+  	Cohen Saves the Flag 	Sennett, Mack 	1913
+  	The Rival Brothers' Patriotism 	  	1910
+4/21/55 	The Fall of the House of Usher 	Watson, James Sibley 	1929
+  	Fast and Furious 	Taurog, Norman 	1924
+  	The Ghost That Never Returns 	Room, Abram 	1929
+5/17/55 	Her Heart's Desire 	Grandon, Francis 	1909
+  	Leading Lizzie Astray 	Sennett, Mack 	1914
+  	Mighty Like a Moose 	McCarey, Leo 	1926
+  	Othello 	Buchovetski, Dmitri 	1922
+  	Sunrise 	Murnau, F.W. 	1927
+6/21/55 	My Lady of Whims 	Fitzgerald, Dallas 	1925
+  	Walking Back 	Julian, Rupert 	1928
+6/28/55 	Bluebeard's Eighth Wife 	Lubitsch, Ernst 	1938
+  	Helpmates 	Parrott, James 	1931
+  	Let's Go to the Movies 	  	 
+7/19/55 	The Little Country Mouse 	Crisp, Donald 	1914
+  	Napoleon in 1814 	  	1910
+  	Tom Sawyer 	Taylor, William Desmond 	1917
+  	The Wolf's Trail 	Ford, Francis 	1927
+7/26/55 	The Story of Vernon & Irene Castle 	Potter, H.C. 	1939
+  	Busy Bodies 	French, Lloyd 	1932
+  	Movies Are Adventure 	  	1949
+8/16/55 	The Flame Fighter 	Dillon, Robert 	1925
+  	The Perils of Pauline 	Gasnier, Louis 	1914
+  	The Indians Are Coming 	MacRae, Henry 	1930
+  	The Iron Claw 	José, Edward 	1916
+  	The Hazards of Helen 	McGowan, J.P. 	1913
+  	Serial Cavalcade 	  	c.1955
+  	The Terrible People 	  	 
+9/20/55 	History Brought to Life 	  	1948
+  	The Phantom of the Opera 	Julian, Rupert 	1925
+  	Polishing Up 	Baker, George D. 	1914
+  	A Ship Comes In 	Howard, William K. 	1928
+10/5/55 	Cain and Artem 	Petrov-Bytov, B.P. 	1929
+  	Made for Laughs 	Anderson, James M. 	1952
+  	The Restoration 	Griffith, D.W. 	1909
+10/18/55 	The Deputy's Double Cross 	Hill, Robert 	1922
+  	Hope 	Hillyer, Lambert 	1922
+  	The Sophomore 	McCarey, Leo 	1929
+  	Were Tiger 	Bracken, Bertram 	1915
+11/15/55 	Ella Cinders 	Green, Alfred E. 	1926
+  	Lorna Doone 	Tourneur, Maurice 	1922
+12/20/55 	Auntie's Portrait 	Baker, George D. 	1914
+  	His New Profession 	Chaplin, Charles 	1914
+  	Paint and Powder 	Stromberg, Hunt 	1925
+  	Sailors, Beware 	Yates, Hal 	1927
+1/17/56 	Hell's Hinges 	Hart, William S. 	1916
+  	The Lighthouse by the Sea 	St. Clair, Malcolm 	1924
+2/21/56 	Ben Hur 	Niblo, Fred 	1925
+  	The Charge of the Light Brigade 	Curtiz, Michael 	1936
+  	The Devil Horse 	Brower, Otto 	1932
+  	The Flying Fool 	Mattison, Frank S. 	1925
+  	Let's Go 	Howard, William K. 	1923
+  	The Mysterious Doctor Satan 	Whitney, William and John English 	1940
+  	Never Give a Sucker an Even Break 	Cline, Edward 	1941
+  	Riders of the Dawn 	Bradbury, Robert N. 	1937
+3/20/56 	Alaskan Adventures 	Robertson, Jack 	1925
+  	Me and My Dog 	Bruce, Robert (producer) 	1925
+  	White Shadows in the South Seas 	Van Dyke, W.S. 	1928
+3/27/56 	Broadway 	Fejos, Paul 	1929
+  	Hallelujah I'm a Bum 	Milestone, Lewis 	1933
+4/17/56 	The Fall of the House of Usher 	Pizzo, Sal 	1955
+  	Merry Go Round 	Von Stroheim, Erich and Rupert Julian 	1923
+5/15/56 	The Birth of a Nation 	Griffith, D.W. 	1915
+  	Boomerang 	Bracken, Bertram 	1919
+  	Change of Spirit 	Griffith, D.W. 	1912
+  	Confession 	Bracken, Bertram 	1918
+  	Ghosts 	Nichols, George 	1915
+  	The Girl Who Wouldn't Work 	De Sano, Marcel 	1925
+  	The Light in the Window 	Pembroke, Scott 	1927
+  	The Lonedale Operator 	Griffith, D.W. 	1911
+  	The Mine with the Iron Door 	Howard, David 	1936
+  	The Raven 	Brabin, Charles 	1915
+  	The Scarlet Letter 	Sjöström, Victor 	1926
+  	The Truant Soul 	Beaumont, Harry 	1916
+6/19/56 	A Corner in Wheat 	Griffith, D.W. 	1909
+  	Officer 444 	Ford, Francis and Ben Wilson 	1926
+  	That Certain Thing 	Capra, Frank 	1928
+  	Cowboy Ambrose 	Lehrman, Henry 	c.1917- 1922
+6/23/56 	At Dawn 	Crisp, Donald 	1914
+  	The Doll House Mystery 	Franklin, Chester and Sidney Franklin 	1915
+  	Dombey and Son 	Elvey, Maurice 	1917
+  	Madame Behave 	Sidney, Scott 	1926
+  	Miss Bluebeard 	Tuttle, Frank 	1925
+  	Pathways of Life 	Cabanne, Christy 	1916
+  	The Perils of Pauline 	Gasnier, Louis 	1914
+  	Vanity 	Crisp, Donald 	1927
+  	Wife and Auto Trouble 	Henderson, Del 	1916
+7/10/56 	The Greeks Had a Word for Them 	Sherman, Lowell 	1932
+  	Men O'War 	Foster, Lewis 	1929
+  	The Telephone Girl and the Lady 	O'Sullivan, Tony 	1913
+7/17/56 	The Bells 	Young, James 	1926
+  	The Marriage Clause 	Weber, Lois 	1926
+  	The Mothering Heart 	Griffith, D.W. 	1913
+  	Officer 444 	Ford, Francis and Ben Wilson 	1926
+8/21/56 	A Dog's Life 	Chaplin, Charlie 	1918
+  	Fluttering Hearts 	McCarey, Leo 	1927
+  	His Day Out 	West, Billy 	1917
+  	Shoulder Arms 	Chaplin, Charles 	1918
+  	Syd's Backward Ways AKA Gussle's Backward Way 	  	1915
+8/28/56 	The Man on the Box 	Reisner, Charles F. 	1925
+  	Officer 444 	Ford, Francis and Ben Wilson 	1926
+  	The Night Cry 	Raymaker, Herman 	1926
+9/18/56 	Are Parents People? 	St. Clair, Malcolm 	1925
+  	The Kiss 	Feyder, Jacques 	1929
+  	Officer 444 	Ford, Francis 	1926
+9/25/56 	Bulldog Jack 	Forde, Walter 	1935
+  	No Limit 	Banks, Monty 	1935
+10/16/56 	The Heart of an Indian (AKA The Indian Massacre) 	Ince, Thomas 	1912
+  	Old Heidelberg 	Emerson, John 	1915
+  	Uncensored Movies 	Clements, Roy 	1923
+  	Officer 444 	Ford, Francis and Ben Wilson 	1926
+10/23/56 	A Girl and Her Trust 	Griffith, D.W. 	1912
+  	Romola 	King, Henry 	1924
+11/20/56 	Big Moments from Little Pictures 	Clements, Roy 	1924
+  	His Last Race 	Eason, B. Reeves 	1923
+  	Judith of Bethulia 	Griffith, D.W. 	1913
+  	Officer 444 	Ford, Francis 	1926
+11/27/56 	The Battle at Elderbush Gulch 	Griffith, D.W. 	1913
+  	The Battle 	Griffith, D.W. 	1912
+  	The Drummer of the Eighth 	Ince, Thomas 	1913
+  	Fighting Blood 	Griffith, D.W. 	1911
+  	His Trust 	Griffith, D.W. 	1911
+  	The House with Closed Shutters 	Griffith, D.W. 	1910
+  	In the Tennessee Hills 	Miller, Charles 	1915
+  	The Last Drop of Water 	Griffith, D.W. 	1911
+  	Past Redemption 	King, Burton 	1913
+  	Silent Heroes 	Ince, Thomas 	1913
+  	The Woman 	Giblyn, Charles 	1913
+12/11/56 	Never Weaken 	Newmeyer, Fred 	1921
+  	The Road to Yesterday 	DeMille, Cecil B. 	1925
+12/18/56 	The Primrose Path 	Hoyt, Harry 	1925
+  	The Still Alarm 	Laemmle, Edward 	1925
+  	Officer 444 	Ford, Francis 	1926
+1/15/57 	Boobs in the Wood 	Edwards, Harry 	1924
+  	In the Watches of the Night 	Griffith, D.W. 	1909
+  	Smouldering Fires 	Brown, Clarence 	1924
+  	Tom, Tom, the Piper's Son 	Bitzer, Billy (camera) 	1905
+1/29/57 	The Circus 	Chaplin, Charles 	1928
+  	Flight for a Fortune 	Cabanne, Christy 	1914
+  	Law and Order 	Parrott, Charles 	1921
+  	Officer 444 	Ford, Francis and Ben Wilson 	1926
+2/19/57 	The Golden Clown 	Sandberg, A.W. 	1927
+  	Lizzies of the Field 	Cline, Edward 	1924
+  	Looking for Sally 	McCarey, Leo 	1925
+  	Nju 	Czinner, Paul 	1924
+  	The Knife Thrower 	Weinberg, Herman and Max Weinberg 	1951
+2/26/57 	Pay Day 	Chaplin, Charles 	1922
+  	The Usurer 	Griffith, D.W. 	1910
+  	The White Tiger 	Browning, Tod 	1923
+3/22/57 	Beau Brummel 	Beaumont, Harry 	1924
+  	General Electric Commercial 	  	1933
+  	Lindbergh's Flight 	  	 
+  	State's Attorney 	Archianbaud, George 	1932
+  	Vagabonding in the Pacific with John Barrymore 	  	1925
+3/26/57 	The Lesser Evil 	Griffith, D.W. 	1912
+  	Officer 444 	Ford, Francis 	1926
+  	Sporting Life 	Tourneur, Maurice 	1925
+  	The Switchtower 	O'Sullivan, Tony 	1912
+  	A Terrible Discovery 	Griffith, D.W. 	1911
+4/16/57 	The Indians Are Coming 	MacRae, Henry 	1930
+  	The Return of Draw Egan 	Hart, William S. 	1916
+  	Thundering Hoofs 	Rogell, Albert 	1924
+4/23/57 	Another Man's Boots 	Craft, William James 	1922
+  	Fight It Out 	Russell, Albert 	1920
+  	Red Raiders 	Rogell, Albert 	1927
+4/30/57 	The Prairie Pirate 	Mortimer, Edmund 	1925
+  	Tumbleweeds 	Baggot, King 	1925
+5/21/57 	The Bat Whispers 	West, Roland 	1931
+  	Her Awakening 	Cabanne, Christy 	1914
+  	The Miser's Heart 	Griffith, D.W. 	1911
+  	Soul of the Beast 	Wray, John Griffith 	1923
+  	A Woman of Nerve 	Belmont, Joseph 	1915
+5/28/57 	The Good Fairy 	Wyler, William 	1935
+  	Tom Brown of Culver 	Wyler, William 	1932
+6/18/57 	The King on Main Street 	Bell, Monta 	1925
+  	A Message to Garcia 	Ridgely, Richard 	1916
+6/25/57 	Orchids and Ermine 	Santell, Alfred 	1927
+  	Sweet Alyssum 	Campbell, Colin 	1915
+7/3/57 	1776, or The Hessian Renegades 	Griffith, D.W. 	1909
+  	America 	Griffith, D.W. 	1924
+7/16/57 	Crazy Like a Fox 	McCarey, Leo 	1926
+  	The Hunchback of Notre Dame 	Worsley, Wallace 	1923
+  	The Man Who Laughs 	Leni, Paul 	1928
+7/23/57 	The Lion's Whiskers 	Sennett, Mack 	1924
+  	The Phantom of the Opera 	Julian, Rupert 	1925
+  	Saturday Afternoon 	Edwards, Harry 	1926
+  	Whispering Whiskers 	Sennett, Mack 	1926
+8/20/57 	His Wooden Wedding 	McCarey, Leo 	1925
+  	Lucrezia Borgia 	Oswald, Richard 	1922
+8/27/57 	The Conquest of the North Pole [A la Conquête du pôle] 	Méliès, Georges 	1912
+  	The Love Story of the Inventor of an Aerial Torpedo [AKA Possibilities of Future War in the Air] 	  	1910
+  	Metropolis 	Lang, Fritz 	1926
+  	Things to Come 	Menzies, William Cameron 	1936
+  	Transatlantic Tunnel 	Elvey, Maurice 	1935
+9/17/57 	Cinderella [Der Verlorene Shuh] 	Berger, Ludwig 	1923
+  	The Passing of the Third Floor Back 	Brenon, Herbert 	1917
+  	Tiger Rose 	Franklin, Sidney 	1923
+9/24/57 	California Straight Ahead 	Pollard, Harry 	1925
+  	The Leatherneck 	Higgin, Howard 	1929
+10/15/57 	The Birth of a Nation 	Griffith, D.W. 	1915
+10/22/57 	Cleopatra 	Gaskill, Charles L 	1912
+  	Hearts and Flowers 	Cline, Edward 	1917
+  	Spies [Spione] 	Lang, Fritz 	1928
+11/19/57 	The Fixer-Uppers 	Rogers, Charles 	1935
+  	Raffles 	Irving, George 	1917
+  	Slipping Wives 	Guiol, Fred 	1927
+  	What Drink Did 	Griffith, D.W. 	1909
+11/26/57 	Corsair 	West, Roland 	1931
+  	L'Argent [Money] 	L'herbier, Marcel 	1929
+  	Zampa 	Forde, Eugene 	1930
+12/17/57 	Down to the Sea in Ships 	Clifton, Elmer 	1922
+  	Movie Night 	Foster, Lewis 	1929
+  	Pass the Gravy 	Guiol, Fred 	1928
+12/23/57 	The Garden of Eden 	Milestone, Lewis 	1928
+  	The Primal Call 	Griffith, D.W. 	1911
+  	The Switchtower 	Edwards, Walter 	1915
+1/21/58 	Big Business 	Horne, James W. 	1929
+  	Call of the Cuckoo 	Bruckman, Clyde 	1927
+  	Double Whoopee 	Foster, Lewis 	1929
+  	Helpmates 	Parrott, James 	1931
+  	Man About Town 	Jeske, George 	1923
+  	Mickey's Gala Premiere 	Gillett, Burt 	1933
+  	The Music Box 	Parrott, James 	1932
+  	Oranges and Lemons 	Jeske, George 	1923
+  	Playmates 	Chase, Charlie 	1917
+  	Them Thar Hills 	Rogers, Charles 	1934
+1/28/58 	The Chronicle of the Grey House [Zur Chronik von Grieshuus] 	von Gerlach, Arthur 	1925
+  	Napoleon 	Gance, Abel 	1927
+  	Sappy Service 	Baker, Eddie 	1929
+2/18/58 	Flames 	Brown, Karl 	1932
+  	The Great Gabbo 	Cruze, James 	1929
+  	His Double Life 	Hopkins, Arthur 	1933
+  	Indiscreet 	McCarey, Leo 	1931
+  	Lasca of the Rio Grande 	  	1929
+  	Law of the Sea 	Brower, Otto 	1932
+  	The Medicine Man 	Pembroke, Scott 	1930
+  	Mr. Robinson Crusoe 	Sutherland, Edward 	1932
+  	Peacock Alley 	De Sano, Marcel 	1929
+  	Phantom in the House 	Rosen, Phil 	1929
+  	The Sea Ghost 	Nigh, William 	1931
+  	The Temperance Lecture 	  	1929
+  	To the Last Man 	Hathaway, Henry 	1933
+  	When the Talkies Were Young 	Youngson, Robert 	1955
+  	William S. Hart introduces Tumbleweeds 	Hart, William S. 	1939
+2/27/58 	The Kentucky Derby 	Baggott, King 	1922
+  	The Lost World 	Hoyt, Harry 	1925
+3/18/58 	Don Q, Son of Zorro 	Crisp, Donald 	1925
+  	Thicker Than Water 	Horne, James W. 	1935
+3/25/58 	Brass 	Franklin, Sidney 	1923
+  	Eastman House 	  	 
+  	Men of the West 	Staub, Ralph 	1953
+  	A Mender of Nets 	Griffith, D.W. 	1912
+  	The Sheriff's Streak of Yellow 	Hart, William S. 	1915
+4/15/58 	The Gangsters and the Girl 	Scott, Sidney 	1914
+  	The Gilded Cage 	Knoles, Harley 	1916
+  	Sweet Adeline 	Storm, Jerome 	1925
+4/24/58 	City Lights 	Chaplin, Charlie 	1931
+  	Don't Park There! 	Guiol, Fred 	1924
+  	The Haunted House 	Keaton, Buster 	1921
+  	Montie of the Mounted 	Lamont, Charles 	1927
+  	A Natural Born Gambler 	Williams, Bert 	1916
+  	Never Weaken 	Newmeyer, Fred 	1921
+  	A Pair of Tights 	Yates, Hal 	1928
+  	The Rat's Knuckles 	Newmeyer, Fred 	1924
+  	So You Want A Model Railroad? 	Bare, Richard 	1954
+  	Tit for Tat 	Rogers, Charles 	1935
+5/16/58 	All Wet 	McCarey, Leo 	1924
+  	The Best Man 	Edwards, Harry 	1928
+  	The Extra Girl 	Jones, F. Richard 	1923
+  	Fallen Arches 	Meins, Gus 	1933
+  	The Great Toe Mystery 	Avery, Charles 	1915
+  	The Pilgrim 	Chaplin, Charlie 	1923
+  	Their First Mistake 	Marshall, George 	1932
+5/20/58 	The Painted Lady 	Griffith, D.W. 	1912
+  	The Scarlet Letter 	Sjöström, Victor 	1926
+  	Way Down East 	Griffith, D.W. 	1920
+5/23/58 	Orphans of the Storm 	Griffith, D.W. 	1922
+6/17/58 	Lady Windermere's Fan 	Lubitsch, Ernst 	1925
+  	Night of Love 	Fitzmaurice, George 	1927
+  	Beau Geste 	Brenon, Herbert 	1927
+  	Lost Horizon 	Capra, Frank 	1937
+  	The Prisoner of Zenda 	Cromwell, John 	1937
+6/24/58 	Skinner's Dress Suit 	Seiter, William A. 	1926
+  	Liberty AKA Criminals at Large 	McCarey, Leo 	1929
+  	Three Little Pigs 	Gillett, Burt 	1933
+  	Hollywood Extra Girl 	Moulton, Herbert 	1935
+  	Putting Pants on Philip 	Bruckman, Clyde 	1928
+7/15/58 	Broncho Billy Anderson Interview 	  	1958
+  	How They Got the Vote 	  	1913
+  	Magic Memories 	  	 
+  	Peacock Feathers 	Gade, Svend 	1926
+7/22/58 	La Boheme 	Vidor, King 	1926
+  	Leave 'Em Laughing 	Bruckman, Clyde 	1928
+8/19/58 	Golf 	Semon, Larry 	1922
+  	The Locked Door 	Fitzmaurice, George 	1929
+  	Peter Pan 	Brenon, Herbert 	1925
+  	There He Goes 	  	1925
+8/26/58 	New York AKA The Big Town 	McGowan, Robert 	1925
+  	The White Sister 	King, Henry 	1923
+9/16/58 	The Failure 	Griffith, D.W. 	1911
+  	The Mollycoddle 	Fleming, Victor 	1920
+  	Through Darkened Vales 	Griffith, D.W. 	1911
+  	Water Wagons 	Lord, Del 	1926
+9/23/58 	Don Juan 	Crosland, Alan 	1926
+  	The Three Musketeers 	Niblo, Fred 	1921
+10/21/58 	The Count of Monte Cristo 	Fescourt, Henri 	1926
+  	Dizzy Heights and Daring Hearts 	Wright, Walter 	1916
+  	The Collegians: "Flashing Oars" 	Ruggles, Wesley 	1927
+  	The Man with the Punch 	Laemmle, Edward (prod.) 	1920
+  	The Pride of Pikeville 	Goulding, Alf 	1927
+  	The Sea Ghost 	Stanton, Richard 	1915
+  	The Squaw's Love 	Griffith, D.W. 	1911
+  	What Happened to Mary? Episode 9: "Way to the Underworld" 	  	1913
+10/29/58 	The Gold Rush 	Chaplin, Charlie 	1926
+  	The Kid 	Chaplin, Charlie 	1921
+  	Recreation 	Chaplin, Charlie 	1914
+11/18/58 	Brats 	Parrott, James 	1930
+  	Busy Bodies 	French, Lloyd 	1933
+  	Flying Elephants 	Roach, Hal 	1927
+  	Hog Wild 	Parrott, James 	1930
+  	Our Wife 	Horne, James W. 	1931
+  	A Perfect Day 	Parrott, James 	1929
+  	The Second Hundred Years 	Guiol, Fred 	1927
+  	Wrong Again 	McCarey, Leo 	1929
+11/25/58 	The Devil's Assistant 	Pollard, Harry 	1917
+  	Nell Gwynn 	Wilcox, Herbert 	1925
+12/16/58 	All Hands 	Carstairs, John Paddy 	1940
+  	Sabotage 	Hitchcock, Alfred 	1936
+  	The Wrecker 	Von Bolvary, Geza 	1929
+12/23/58 	I Cover the Waterfront 	Cruze, James 	1933
+  	She Got What She Wanted 	Cruze, James 	1930
+  	Silver Lining 	Crosland, Alan 	1931
+1/20/59 	The Housemaster 	Brenon, Herbert 	1938
+  	The Painted Desert 	Higgin, Howard 	1930
+1/26/59 	The Spanish Dancer 	Brenon, Herbert 	1923
+  	The Pony Express 	Cruze, James 	1925
+2/6/59 	The Drop Kick 	Webb, Millard 	1927
+  	Shore Leave 	Robertson, John S. 	1925
+  	Tol'able David 	King, Henry 	1921
+  	Way Down East 	Griffith, D.W. 	1920
+2/24/59 	Mad Wednesday 	Sturges, Preston 	1947
+  	My Pal the King 	Neumann, Kurt 	1932
+2/27/59 	Blockheads 	Blystone, John G. 	1938
+  	Bumping into Broadway 	Roach, Hal 	1920
+  	Girls 	Forde, Eugene 	1927
+  	The High and the Flighty 	McKimson, Robert 	1955
+  	Movieland 	Taurog, Norman 	1926
+  	Once Over Lightly 	  	1944
+  	You Can't Cheat an Honest Man 	Marshall, George 	1939
+3/17/59 	A Bit of the Best 	Youngson, Robert 	1955
+  	County Hospital 	Parrott, James 	1932
+  	Sanders of the River 	Korda, Zoltan 	1935
+  	The Treasure that Was Lost 	Lee, Sammy 	1944
+3/23/59 	Fisher Folk 	Griffith, D.W. 	1911
+  	The Well 	O'Sullivan, Anthony 	1913
+  	Kid Speed 	Semon, Larry and Noel Mason Smith 	1924
+  	The Storm 	Barker, Reginald 	1922
+4/21/59 	The Busher 	Storm, Jerome 	1919
+  	The Forbidden City 	Franklin, Sidney 	1918
+4/28/59 	Crainquebille 	Feyder, Jacques 	1922
+  	The Mad Whirl 	Seiter, William A. 	1924
+5/19/59 	The Bashful Whirlwind 	Laemmle, Ernst 	1925
+  	City of Stars 	Humberstone, H. Bruce 	1925
+  	On Your Toes 	Newmeyer, Fred 	1927
+  	Echo of Applause 	Anderson, James M. (prod.) 	1946
+5/22/59 	Knight Without Armor 	Feyder, Jacques 	1937
+  	Me and My Pal 	Rogers, Charles 	1933
+  	Skip the Maloo 	Parrott, James 	1931
+5/26/59 	Bedlam 	Robson, Mark 	1946
+  	The Ghost Ship 	Robson, Mark 	1943
+6/16/59 	The Great Man Votes 	Kanin, Garson 	1939
+  	Svengali 	Mayo, Archie 	1931
+6/23/59 	Captain Kidd's Kittens 	Carruth, Clyde 	1927
+  	The Circus 	Chaplin, Charlie 	1927
+  	The Cloud Hopper 	Semon, Larry 	1925
+  	Do Detectives Think? 	Guiol, Fred 	1927
+  	From Hand to Mouth 	Goulding, Alfred 	1920
+  	The Life of Reilly 	La Cava, Gregory 	1923
+  	Limousine Love 	Guiol, Fred 	1928
+  	Trolley Troubles 	  	1921
+  	You're Darn Tootin' 	Kennedy, Edgar 	1928
+6/30/59 	Conceit 	George, Burton 	1921
+  	The Drop Kick 	Webb, Millard 	1927
+7/21/59 	The General Line 	Eisenstein, S.M. 	1926
+  	The Idol Dancer 	Griffith, D.W. 	1920
+7/28/59 	Air Mail 	Ford, John 	1932
+  	Drums Along the Mohawk 	Ford, John 	1939
+  	The Prisoner of Shark Island 	Ford, John 	1936
+  	They Were Expendable 	Ford, John 	1945
+  	The Wagonmaster 	Ford, John 	1950
+8/18/59 	Alexander Hamilton 	Adolfi, John G. 	1931
+  	Off His Trolley 	Lord, Del 	1924
+  	There Goes the Bride 	Horne, James W. 	1925
+  	This Mechanical Age 	Youngson, Robert 	1954
+  	Thrills from the Past 	Youngson, Robert 	1954
+8/21/59 	The Flame Fighter 	Dillon, Robert 	1925
+  	The Hazards of Helen 	McGowan, J.P. 	1915
+  	King of the Kongo 	Thorpe, Richard 	1929
+  	Pearl of the Army 	José, Edward 	1916
+  	The Perils of Pauline 	Gasnier, Louis 	1914
+  	Plunder 	Seitz, George B. 	1923
+  	The Serial Queens 	Killiam, Paul (prod.) 	1956
+  	Terror 	José, Edward 	1924
+  	Zudora 	Sullivan, Frederic and Howard Hansell 	1914
+8/25/59 	The Cat and the Canary 	Leni, Paul 	1927
+  	White Zombie 	Halperin, Victor 	1932
+8/28/59 	The Amazing Mr. X 	Vorhaus, Bernard 	1948
+  	Cat People 	Tourneur, Jacques 	1942
+  	Dead of Night 	Cavalcanti, Alberto, Charles Chrichton, Basil Dearden, and Robert Hamer 	1945
+  	I Walked with a Zombie 	Tourneur, Jacques 	1943
+  	The Picture of Dorian Gray 	Lewin, Albert 	1945
+  	The Red House 	Daves, Delmer 	1947
+  	The Spiral Staircase 	Sidomak, Robert 	1946
+  	The Woman Who Came Back 	Colmes, Walter 	1945
+9/15/59 	The Body Snatcher 	Wise, Robert 	1945
+  	Dr. Jekyll and Mr. Hyde 	Robertson, John S. 	1920
+  	Frankenstein Meets the Wolf Man 	Neill, Roy William 	1943
+  	The Invisible Man 	Whale, James 	1933
+  	Metropolis 	Lang, Fritz 	1926
+  	The Mummy's Hand 	Cabanne, Christy 	1940
+  	The Thing 	Nyby, Christian 	1951
+9/24/59 	What Happened to Mary? Episode 4: The Affair at Raynor's 	  	1912
+  	His Marriage Wow 	Lord, Del 	1924
+  	I Never Forget a Face 	Youngson, Robert 	1956
+  	Naughty Boy 	Lamont, Charles 	1927
+  	Ten Nights in a Bar Room 	O'Connor, William 	1930
+  	Topical Budget 	  	1921
+9/29/59 	Are Parents People? 	St. Clair, Malcolm 	1925
+  	Dog Shy 	McCarey, Leo 	1926
+  	Hoodoo Ann 	Ingraham, Lloyd 	1916
+10/20/59 	Bad Buck of Santa Ynez 	Hart, William S. 	1914
+  	The Captive God 	Swickard, Josef 	1916
+  	Mr. Silent Haskins 	Hart, William S. 	1914
+  	The Saga of William S. Hart 	  	1959
+  	Tumbleweeds 	Baggott, King 	1925
+10/27/59 	The Bewitched Trunk [Le coffre enchanté] 	Méliès, Georges 	1904
+  	Extraordinary Illusions 	Méliès, Georges 	1903
+  	The Marvellous Wreath [La Guirlande merveilleuse] 	Méliès, Georges 	1903
+  	The Mysterious Box [La Boîte à malice] 	Méliès, Georges 	1903
+  	Giddap 	Lord, Del 	1924
+  	Her Terrible Ordeal 	Griffith, D.W. 	1910
+  	Lena and the Geese 	Griffith, D.W. 	1912
+  	Madonnas and Men 	Rolfe, B.A. 	1920
+  	The Wooden Soldier 	Rollin, Jacques 	1928
+10/30/59 	The Adventures of Captain Marvel 	Whitney, William and John English 	1941
+  	Burn 'Em Up Barnes 	Clark, Colbert 	1934
+  	The Clutching Hand 	Herman, Albert 	1936
+  	The Crimson Ghost 	Whitney, William 	1946
+  	Dick Tracy vs. Crime Inc. 	English, John and William Whitney 	1941
+  	Flash Gordon 	Stephani, Frederick 	1936
+  	The Galloping Ghost 	Eason, Reeves 	1931
+  	The Great Adventures of Wild Bill Hickok 	Nelson, Sam and Mack Wright 	1938
+  	The Iron Claw 	Horne, James 	1941
+  	Junior G Men of the Air 	Taylor, Ray 	1942
+  	The Lost City 	Revier, Harry 	1935
+  	The Oregon Trail 	Beebe, Ford 	1939
+  	The Return of Chandu 	Taylor, Ray 	1934
+  	Tim Tyler's Luck 	Beebe, Ford 	1937
+11/17/59 	The Fun Factory 	  	1959
+  	Hit 'Im Again 	Semon, Larry 	1943
+  	The Little Church Around the Corner 	Seiter, William A. 	1923
+  	Those Exciting Days 	Youngson, Robert 	1955
+  	Towed in a Hole 	Marshall, George 	1933
+11/27/59 	Casey Jones 	Hunt, Charles 	1928
+  	The Flame Fighter 	Dillon, Robert 	1925
+  	Fighting for Fame 	  	1925
+  	The Grim Game 	Willat, Irvin 	1919
+  	The Man from Beyond 	King, Burton 	1921
+  	The Master Mystery 	King, Burton 	1918
+12/15/59 	The Coming of Amos 	Sloane, Paul 	1925
+  	Feet of Mud 	Edwards, Harry 	1924
+  	King of the Pack 	Richardson, Frank 	1926
+  	The Return of Boston Blackie 	Hoyt, Harry 	1927
+  	Twice Two 	Parrott, James 	1933
+12/30/59 	Below Zero 	Parrott, James 	1930
+  	A Hero for a Night 	Craft, William James 	1927
+  	His Private Life 	Goodrich, William 	1926
+  	The Old Reporter 	Montague, E.J. 	1912
+  	Speedy Gonzales 	Freleng, Friz 	1954
