@@ -1,4 +1,4 @@
-#Source: http://www.nyu.edu/projects/wke/indices/byseries/huff50s.htm
+#Source: http://www.nyu.edu/projects/wke/byseries/huff50s.php
 
 
 def main():
