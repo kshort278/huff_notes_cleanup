@@ -1,9 +1,6 @@
-python_data_scrubbing_examples
+huff_notes_cleanup.py
 ==============================
-
-Scripts for Python Data Scrubbing - Class Assignments
 
 ##Huff Notes##
 
-The first folder contains a python script I wrote to clean up Program Notes from NYU's William K. Everson Collection.
-It also includes two data files - one source file and one target file that it writes to.
+This repository contains a Python script that I wrote to clean up data about program notes from NYU's William K. Everson Collection, found here: http://www.nyu.edu/projects/wke/byseries/huff50s.php. It also contains two data files - one source file and the target_file output of the program.
